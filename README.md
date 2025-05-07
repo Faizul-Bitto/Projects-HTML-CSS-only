@@ -13,6 +13,6 @@ Here is a list of projects included in this repository:
 
   - View the code in its branch: [01_NutriFit-Health-Care-Service Branch](https://github.com/Faizul-Bitto/Projects-HTML-CSS-only/tree/01_NutriFit-Health-Care-Service)
 
-- **NutriFit - Health Care Service:**
+- **helloswaps - BItcoin Buy & Sell Platform:**
   A front-end layout for a health care service, demonstrating layout, styling, and responsive design principles using only HTML and CSS.
-  - View the code in its branch: [01_NutriFit-Health-Care-Service Branch](https://github.com/Faizul-Bitto/Projects-HTML-CSS-only/tree/02_helloswaps-BItcoin-Buy-and-Sell-Platform)
+  - View the code in its branch: [02_helloswaps-BItcoin-Buy-and-Sell-Platform](https://github.com/Faizul-Bitto/Projects-HTML-CSS-only/tree/02_helloswaps-BItcoin-Buy-and-Sell-Platform)
